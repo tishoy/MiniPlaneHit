@@ -1,0 +1,364 @@
+{
+	"groups": [
+		{
+			"keys": "background_m4a,bird_mp3,btntouch_mp3,drop_m4a,fail_m4a,fail_mp3,fire_mp3,firing_mp3,head_mp3,hit_mp3,lanch_mp3,miss_mp3,over_mp3,popup_mp3,success_m4a,win_mp3",
+			"name": "sound"
+		},
+		{
+			"keys": "view_advertise_company_png,view_airport_png,balloon1_png,balloon2_png,balloon3_png,view_bank_png,view_bullet_science_png,city_bg_png,city_control_png,view_defense_png,view_gas_station_png,ground_png,view_insure_company_png,pillar_png,protect_png,view_repair_factory_png,selected_png,star_png",
+			"name": "city"
+		},
+		{
+			"keys": "guide_1_png,guide_2_png,guide_3_png,guide_4_png,guide_5_png,guide_6_png,guide_7_png,guide_21_png,guide_22_png,guide_bg_png,guide_board_png",
+			"name": "guide"
+		},
+		{
+			"keys": "video_png,add_icon_png,back_png,btn_blue_png,btn_gray_png,btn_green_png,btn_purple_png,btn_red_png,btn_yellow_png,fail_png,frame_png,gas_png,give_up_png,gold_png,map_bg_selected_png,map_bg_png,msg_png,notice_png,talk_board_png,tip_bg_png,win_png,plane_sheet",
+			"name": "ui"
+		}
+	],
+	"resources": [
+		{
+			"name": "video_png",
+			"type": "image",
+			"url": "assets/ui/video.png"
+		},
+		{
+			"name": "selected_png",
+			"type": "image",
+			"url": "assets/city/selected.png"
+		},
+		{
+			"name": "pillar_png",
+			"type": "image",
+			"url": "assets/city/pillar.png"
+		},
+		{
+			"name": "protect_png",
+			"type": "image",
+			"url": "assets/city/protect.png"
+		},
+		{
+			"name": "tip_bg_png",
+			"type": "image",
+			"url": "assets/ui/tip_bg.png"
+		},
+		{
+			"name": "ground_png",
+			"type": "image",
+			"url": "assets/city/ground.png"
+		},
+		{
+			"name": "balloon1_png",
+			"type": "image",
+			"url": "assets/city/balloon1.png"
+		},
+		{
+			"name": "balloon2_png",
+			"type": "image",
+			"url": "assets/city/balloon2.png"
+		},
+		{
+			"name": "balloon3_png",
+			"type": "image",
+			"url": "assets/city/balloon3.png"
+		},
+		{
+			"name": "star_png",
+			"type": "image",
+			"url": "assets/city/star.png"
+		},
+		{
+			"name": "plane_sheet",
+			"subkeys": "D_0,D_1,D_2,D_3,D_4,D_5,D_6,D_7,D_8,D_H,L_0,L_1,L_2,L_3,L_4,L_5,L_6,L_7,L_8,L_H,R_0,R_1,R_2,R_3,R_4,R_5,R_6,R_7,R_8,R_H,U_0,U_1,U_2,U_3,U_4,U_5,U_6,U_7,U_8,U_H",
+			"type": "sheet",
+			"url": "assets/ui/plane.json"
+		},
+		{
+			"name": "add_icon_png",
+			"type": "image",
+			"url": "assets/ui/add_icon.png"
+		},
+		{
+			"name": "gold_png",
+			"type": "image",
+			"url": "assets/ui/gold.png"
+		},
+		{
+			"name": "gas_png",
+			"type": "image",
+			"url": "assets/ui/gas.png"
+		},
+		{
+			"name": "frame_png",
+			"type": "image",
+			"url": "assets/ui/frame.png"
+		},
+		{
+			"name": "view_advertise_company_png",
+			"type": "image",
+			"url": "assets/city/advertis.png"
+		},
+		{
+			"name": "view_airport_png",
+			"type": "image",
+			"url": "assets/city/airport.png"
+		},
+		{
+			"name": "view_bank_png",
+			"type": "image",
+			"url": "assets/city/bank.png"
+		},
+		{
+			"name": "view_defense_png",
+			"type": "image",
+			"url": "assets/city/defense.png"
+		},
+		{
+			"name": "view_gas_station_png",
+			"type": "image",
+			"url": "assets/city/gas_station.png"
+		},
+		{
+			"name": "view_insure_company_png",
+			"type": "image",
+			"url": "assets/city/insure_company.png"
+		},
+		{
+			"name": "view_repair_factory_png",
+			"type": "image",
+			"url": "assets/city/repair_factory.png"
+		},
+		{
+			"name": "view_bullet_science_png",
+			"type": "image",
+			"url": "assets/city/bullet_science.png"
+		},
+		{
+			"name": "btn_blue_png",
+			"type": "image",
+			"url": "assets/ui/btn_blue.png"
+		},
+		{
+			"name": "btn_gray_png",
+			"type": "image",
+			"url": "assets/ui/btn_gray.png"
+		},
+		{
+			"name": "btn_green_png",
+			"type": "image",
+			"url": "assets/ui/btn_green.png"
+		},
+		{
+			"name": "btn_purple_png",
+			"type": "image",
+			"url": "assets/ui/btn_purple.png"
+		},
+		{
+			"name": "btn_red_png",
+			"type": "image",
+			"url": "assets/ui/btn_red.png"
+		},
+		{
+			"name": "btn_yellow_png",
+			"type": "image",
+			"url": "assets/ui/btn_yellow.png"
+		},
+		{
+			"name": "notice_png",
+			"type": "image",
+			"url": "assets/ui/notice.png"
+		},
+		{
+			"name": "guide_1_png",
+			"type": "image",
+			"url": "assets/guide/guide_1.png"
+		},
+		{
+			"name": "guide_2_png",
+			"type": "image",
+			"url": "assets/guide/guide_2.png"
+		},
+		{
+			"name": "guide_3_png",
+			"type": "image",
+			"url": "assets/guide/guide_3.png"
+		},
+		{
+			"name": "guide_4_png",
+			"type": "image",
+			"url": "assets/guide/guide_4.png"
+		},
+		{
+			"name": "guide_5_png",
+			"type": "image",
+			"url": "assets/guide/guide_5.png"
+		},
+		{
+			"name": "guide_6_png",
+			"type": "image",
+			"url": "assets/guide/guide_6.png"
+		},
+		{
+			"name": "guide_7_png",
+			"type": "image",
+			"url": "assets/guide/guide_7.png"
+		},
+		{
+			"name": "guide_21_png",
+			"type": "image",
+			"url": "assets/guide/guide_21.png"
+		},
+		{
+			"name": "guide_22_png",
+			"type": "image",
+			"url": "assets/guide/guide_22.png"
+		},
+		{
+			"name": "guide_bg_png",
+			"type": "image",
+			"url": "assets/guide/guide_bg.png"
+		},
+		{
+			"name": "guide_board_png",
+			"type": "image",
+			"url": "assets/guide/guide_board.png"
+		},
+		{
+			"name": "background_m4a",
+			"type": "sound",
+			"url": "assets/sound/background.m4a"
+		},
+		{
+			"name": "bird_mp3",
+			"type": "sound",
+			"url": "assets/sound/bird.mp3"
+		},
+		{
+			"name": "btntouch_mp3",
+			"type": "sound",
+			"url": "assets/sound/btntouch.mp3"
+		},
+		{
+			"name": "drop_m4a",
+			"type": "sound",
+			"url": "assets/sound/drop.m4a"
+		},
+		{
+			"name": "fail_m4a",
+			"type": "sound",
+			"url": "assets/sound/fail.m4a"
+		},
+		{
+			"name": "fail_mp3",
+			"type": "sound",
+			"url": "assets/sound/fail.mp3"
+		},
+		{
+			"name": "fire_mp3",
+			"type": "sound",
+			"url": "assets/sound/fire.mp3"
+		},
+		{
+			"name": "firing_mp3",
+			"type": "sound",
+			"url": "assets/sound/firing.mp3"
+		},
+		{
+			"name": "head_mp3",
+			"type": "sound",
+			"url": "assets/sound/head.mp3"
+		},
+		{
+			"name": "hit_mp3",
+			"type": "sound",
+			"url": "assets/sound/hit.mp3"
+		},
+		{
+			"name": "lanch_mp3",
+			"type": "sound",
+			"url": "assets/sound/lanch.mp3"
+		},
+		{
+			"name": "miss_mp3",
+			"type": "sound",
+			"url": "assets/sound/miss.mp3"
+		},
+		{
+			"name": "over_mp3",
+			"type": "sound",
+			"url": "assets/sound/over.mp3"
+		},
+		{
+			"name": "popup_mp3",
+			"type": "sound",
+			"url": "assets/sound/popup.mp3"
+		},
+		{
+			"name": "success_m4a",
+			"type": "sound",
+			"url": "assets/sound/success.m4a"
+		},
+		{
+			"name": "win_mp3",
+			"type": "sound",
+			"url": "assets/sound/win.mp3"
+		},
+		{
+			"name": "city_bg_png",
+			"type": "image",
+			"url": "assets/city/city_bg.png"
+		},
+		{
+			"name": "city_control_png",
+			"type": "image",
+			"url": "assets/city/city_control.png"
+		},
+		{
+			"name": "back_png",
+			"type": "image",
+			"url": "assets/ui/back.png"
+		},
+		{
+			"name": "fail_png",
+			"type": "image",
+			"url": "assets/ui/fail.png"
+		},
+		{
+			"name": "give_up_png",
+			"type": "image",
+			"url": "assets/ui/give_up.png"
+		},
+		{
+			"name": "map_bg_selected_png",
+			"type": "image",
+			"url": "assets/ui/map_bg_selected.png"
+		},
+		{
+			"name": "map_bg_png",
+			"type": "image",
+			"url": "assets/ui/map_bg.png"
+		},
+		{
+			"name": "msg_png",
+			"type": "image",
+			"url": "assets/ui/msg.png"
+		},
+		{
+			"name": "plane_json",
+			"subkeys": "D_0,D_1,D_2,D_3,D_4,D_5,D_6,D_7,D_8,D_H,L_0,L_1,L_2,L_3,L_4,L_5,L_6,L_7,L_8,L_H,R_0,R_1,R_2,R_3,R_4,R_5,R_6,R_7,R_8,R_H,U_0,U_1,U_2,U_3,U_4,U_5,U_6,U_7,U_8,U_H",
+			"type": "sheet",
+			"url": "assets/ui/plane.json"
+		},
+		{
+			"name": "talk_board_png",
+			"type": "image",
+			"url": "assets/ui/talk_board.png"
+		},
+		{
+			"name": "win_png",
+			"type": "image",
+			"url": "assets/ui/win.png"
+		}
+	]
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "name": "bullet_0",
+        "desc": "desc_bullet_0",
+        "view": "view_bullet_0",
+        "animate": "animate_bullet_0",
+        "cost": 100
+    },
+    {
+        "name": "bullet_1",
+        "desc": "desc_bullet_1",
+        "view": "view_bullet_1",
+        "animate": "animate_bullet_1",
+        "cost": 10000
+    },
+    {
+        "name": "bullet_2",
+        "desc": "desc_bullet_2",
+        "view": "view_bullet_2",
+        "animate": "animate_bullet_2",
+        "cost": 10000
+    },
+    {
+        "name": "bullet_3",
+        "desc": "desc_bullet_3",
+        "view": "view_bullet_3",
+        "animate": "animate_bullet_3",
+        "cost": 10000
+    },
+    {
+        "name": "bullet_4",
+        "desc": "desc_bullet_4",
+        "view": "view_bullet_4",
+        "animate": "animate_bullet_4",
+        "cost": 2000
+    },
+    {
+        "name": "bullet_5",
+        "desc": "desc_bullet_5",
+        "view": "view_bullet_5",
+        "animate": "animate_bullet_5",
+        "cost": 10000
+    },
+    {
+        "name": "bullet_6",
+        "desc": "desc_bullet_6",
+        "view": "view_bullet_6",
+        "animate": "animate_bullet_6",
+        "cost": 10000
+    },
+    {
+        "name": "bullet_6",
+        "desc": "desc_bullet_6",
+        "view": "view_bullet_6",
+        "animate": "animate_bullet_6",
+        "cost": 10000
+    }
+]

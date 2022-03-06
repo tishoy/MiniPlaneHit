@@ -1,0 +1,51 @@
+{
+    "groups": [
+        {
+            "name": "config",
+            "keys": "guide_json,puzzles_json,stock_json,level_json,building_json,bullet_json,city_json,copy_json,language_json"
+        }
+    ],
+    "resources": [
+        {
+            "name": "guide_json",
+            "type": "json",
+            "url": "config/guide.json"
+        },
+        {
+            "name": "puzzles_json",
+            "type": "json",
+            "url": "config/puzzles.json"
+        },
+        {
+            "name": "stock_json",
+            "type": "json",
+            "url": "config/stock.json"
+        },
+        {
+            "name": "level_json",
+            "type": "json",
+            "url": "config/level.json"
+        },
+      
+        {
+            "name": "building_json",
+            "type": "json",
+            "url": "config/building.json"
+        },
+        {
+            "name": "bullet_json",
+            "type": "json",
+            "url": "config/bullet.json"
+        },
+        {
+            "name": "city_json",
+            "type": "json",
+            "url": "config/city.json"
+        },
+        {
+            "name": "language_json",
+            "type": "json",
+            "url": "config/language.json"
+        }
+    ]
+}

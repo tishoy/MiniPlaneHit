@@ -1,0 +1,68 @@
+[
+    {
+        "id": 0,
+        "base": 105,
+        "wave": 10,
+        "rp": 7,
+        "fp": 5,
+        "smcircle": 3,
+        "bigcircle": 30,
+        "target": 50,
+        "burst": 0.1
+    },
+    {
+        "id": 1,
+        "base": 40,
+        "wave": 20,
+        "rp": 30,
+        "fp": 15,
+        "smcircle": 15,
+        "bigcircle": 90,
+        "target": 20,
+        "burst": 0.8
+    },
+    {
+        "id": 2,
+        "base": 160,
+        "wave": 50,
+        "rp": 100,
+        "fp": 100,
+        "smcircle": 3,
+        "bigcircle": 30,
+        "target": 120,
+        "burst": 0.4
+    },
+    {
+        "id": 3,
+        "base": 20,
+        "wave": 5,
+        "rp": 15,
+        "fp": 15,
+        "smcircle": 10,
+        "bigcircle": 300,
+        "target": 60,
+        "burst": 0.05
+    },
+    {
+        "id": 4,
+        "base": 300,
+        "wave": 100,
+        "rp": 7,
+        "fp": 5,
+        "smcircle": 5,
+        "bigcircle": 20,
+        "target": 100,
+        "burst": 0.3
+    },
+    {
+        "id": 5,
+        "base": 120,
+        "wave": 40,
+        "rp": 10,
+        "fp": 10,
+        "smcircle": 5,
+        "bigcircle": 120,
+        "target": 40,
+        "burst": 0.5
+    }
+]

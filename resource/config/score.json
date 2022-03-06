@@ -1,0 +1,22 @@
+{
+    "K": {
+        "bullet": 3,
+        "reward": 20000
+    },
+    "S": {
+        "bullet": [8,8,9,9,10],
+        "reward": 10000
+    },
+    "A": {
+        "bullet": 15,
+        "reward": 8000
+    },
+    "B": {
+        "bullet": 25,
+        "reward": 5000
+    },
+    "C": {
+        "bullet": 81,
+        "reward": 1000
+    }
+}

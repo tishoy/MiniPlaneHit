@@ -1,0 +1,25 @@
+{
+    "cities": [
+        null,
+        {
+            "id": 1,
+            "name": "北京",
+            "areaId": 1,
+            "building":[5,5,5,5,5],
+            "res": "bj_"
+        },
+        {}
+    ],
+    "area": [
+        null,
+        {
+            "id": 1,
+            "name": "北上广",
+            "cities": [
+                1,
+                2,
+                3
+            ]
+        }
+    ]
+}

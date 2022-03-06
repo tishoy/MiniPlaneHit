@@ -1,0 +1,7 @@
+/**
+ * 
+ */
+interface Scene {
+    inAnimate();
+    outAnimate();
+}
